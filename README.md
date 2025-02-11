@@ -34,14 +34,22 @@ This is a web-based item checklist tool that allows you to manage items and save
    リポジトリをクローンするか、ZIPファイルをダウンロードしてください。
 
 2. **Open in Browser:**  
-   Open `index.html` in your web browser for the default font, or `indexmeiryo.html` if you have Meiryo installed.
+   We have confirmed the application works on Google Chrome.  
+   - If your environment has the **HGP創英角ﾎﾟｯﾌﾟ体** font installed, open `index.html`.  
+   - Otherwise, open `indexmeiryo.html`.
 
-   ご利用のブラウザで、デフォルトの場合は `index.html`、メイリオを使用する場合は `indexmeiryo.html` を開いてください。
+   Google Chrome で動作確認を行っています。  
+   - お使いの環境に **HGP創英角ﾎﾟｯﾌﾟ体** フォントがインストールされている場合は、`index.html` を開いてください。  
+   - それ以外の場合は、`indexmeiryo.html` を開いてください。  
+   
+   The layout is designed to remain intact in either case.
+   どちらの場合でもレイアウトは崩れないようになっています。
 
 3. **Interact:**  
    The application will load the item list. Check items, use the search box, and adjust color settings as needed. Your changes are saved automatically.
 
    アプリケーションがアイテムリストを読み込みます。アイテムのチェックや検索、カラー設定の調整を行ってください。変更内容は自動的に保存されます。
+
 
 ## Installation / インストール
 
