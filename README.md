@@ -4,7 +4,8 @@ Gadget for item database in Torneko's Great Adventure 3
 
 This is a web-based item checklist tool used in Toruneko's Great Adventure 3 [Labyrinth of Another World], which allows you to manage items and save their state. It runs locally and can be easily distributed. Furthermore, it is designed to serve as a gadget for use with streaming tools such as OBS. Capture it as a window capture in the bottom-right corner of your game screen, and by using color keying or chroma keying on the background, you can make the background transparent.
 
-トルネコの大冒険3【異世界の迷宮】にて、アイテムの一覧を管理し、その状態を保存できるウェブベースのチェックリストツールです。<br>
+トルネコの大冒険3【異世界の迷宮】にて、アイテムの一覧を管理し、<br>
+その状態を保存できるウェブベースのチェックリストツールです。<br>
 ローカル環境で動作し、配布も簡単に行えます。<br>
 さらに、OBSなど配信ツールでの利用を想定したガジェットとしても利用できるよう設計されています。<br>
 ゲーム画面の右下にウィンドウキャプチャとして取り込み、<br>
