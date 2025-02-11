@@ -40,8 +40,8 @@ This is a web-based item checklist tool used in Toruneko's Great Adventure 3 [La
    - Otherwise, open `indexmeiryo.html`.
 
    Google Chrome で動作確認を行っています。  
-   - お使いの環境に **HGP創英角ﾎﾟｯﾌﾟ体** フォントがインストールされている場合は、`index.html` を開いてください。  
-   - それ以外の場合は、`indexmeiryo.html` を開いてください。  
+   - お使いの環境に **HGP創英角ﾎﾟｯﾌﾟ体** フォントがインストールされている場合は、`index.html` を開いてください。  <br>
+   それ以外の場合は、`indexmeiryo.html` を開いてください。  
    
    The layout is designed to remain intact in either case.
    どちらの場合でもレイアウトは崩れないようになっています。
