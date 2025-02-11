@@ -11,6 +11,16 @@ This is a web-based item checklist tool used in Toruneko's Great Adventure 3 [La
 ゲーム画面の右下にウィンドウキャプチャとして取り込み、<br>
 背景色をカラーキーやクロマキーとして利用することで背景を透過させることが可能です。<br>
 
+本ツールは、配信や広告収入などの商業利用を含むあらゆる用途で、<br>
+特別な許諾なくご利用いただけます。<br>
+ただし、原著作者は私「じぇいつぅ」であることをご理解いただき、<br>
+ツールのご利用にあたって、あたかもご自身が開発されたかのような<br>
+虚偽の表現をなさることはご遠慮くださいますようお願い申し上げます。<br>
+もし可能であれば、下記のクレジット表示をしていただけると大変ありがたく存じます。<br>
+<br>
+じぇいつぅるず「T3DB」<br>
+X: @iidx_j2<br>
+<br>
 ## Features / 特徴
 
 - **Dynamic Item Display:** Items are generated dynamically from embedded CSV data.
