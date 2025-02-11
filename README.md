@@ -2,9 +2,13 @@
 Gadget for item database in Torneko's Great Adventure 3
 ## Overview / 概要
 
-This is a web-based item checklist tool that allows you to manage items and save their state. It is designed to work locally (no server-side processing is required) and can be easily distributed.
+This is a web-based item checklist tool that allows you to manage items and save their state. It is designed to work locally (no server-side processing is required) and can be easily distributed. In addition, it is also intended to serve as a gadget for use with OBS and similar software. You can capture it as a window capture in the bottom-right corner of your game screen and use color keying or chroma keying on the background to achieve transparency.
 
-これは、アイテムの一覧を管理し、その状態を保存できるウェブベースのチェックリストツールです。ローカル環境で動作し、配布も簡単に行えます。
+これは、アイテムの一覧を管理し、その状態を保存できるウェブベースのチェックリストツールです。
+ローカル環境で動作し、配布も簡単に行えます。
+さらに、OBSなど配信ツールでの利用を想定したガジェットとしても利用できるよう設計されています。
+ゲーム画面の右下にウィンドウキャプチャとして取り込み、
+背景色をカラーキーやクロマキーとして利用することで背景を透過させることが可能です。
 
 ## Features / 特徴
 
