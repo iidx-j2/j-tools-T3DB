@@ -34,9 +34,9 @@ you can make the background transparent.
 ## How to Use / 利用方法
 
 1. **Clone or Download:**  
-   Clone the repository or download the ZIP file.
+   Download the ZIP file.
 
-   リポジトリをクローンするか、ZIPファイルをダウンロードしてください。
+   Releaseタブより、最新のZIPファイルをダウンロードしてください。
 
 2. **Open in Browser:**  
    We have confirmed the application works on Google Chrome.  
@@ -47,10 +47,12 @@ you can make the background transparent.
    - お使いの環境に **HGP創英角ﾎﾟｯﾌﾟ体** フォントがインストールされている場合は、`index.html` を開いてください。  <br>
    それ以外の場合は、`indexmeiryo.html` を開いてください。  
    
-   The layout is designed to remain intact in either case.
-   どちらの場合でもレイアウトは崩れないようになっています。
-
-3. **Interact:**  
+   The layout is designed to remain intact in either case. <br>
+   どちらの場合でもレイアウトが崩れないようになっています。 <br>
+　　オーバーレイとして利用される場合は、ブラウザの幅を最小にすると <br>
+　　インゲームのウィンドウの外側に配置できます。 <br>
+  
+4. **Interact:**  
    The application will load the item list. Check items, use the search box, and adjust color settings as needed. Your changes are saved automatically.
 
    アプリケーションがアイテムリストを読み込みます。アイテムのチェックや検索、カラー設定の調整を行ってください。変更内容は自動的に保存されます。
