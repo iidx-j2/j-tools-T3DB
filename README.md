@@ -15,13 +15,6 @@ you can make the background transparent.
 ゲーム画面の右下にウィンドウキャプチャとして取り込み、<br>
 背景色をカラーキーやクロマキーとして利用することで背景を透過させることが可能です。<br>
 
-本ツールは、配信や広告収入などの商業利用を含むあらゆる用途で、<br>
-特別な許諾なくご利用いただけます。<br>
-もし可能であれば、下記のクレジット表示をしていただけると大変ありがたく存じます。<br>
-<br>
-じぇいつぅるず「T3DB」<br>
-X: @iidx_j2<br>
-<br>
 ## Features / 特徴
 
 - **Dynamic Item Display:** Items are generated dynamically from embedded CSV data.
@@ -80,4 +73,16 @@ If you have suggestions or improvements, please feel free to fork the repository
 This project is licensed under the MIT License.
 
 本プロジェクトは MIT ライセンスの下で公開されています.
+
+## Acknowledgments / 謝辞<br>
+Original Author: じぇいつぅ<br>
+Twitter (X): @iidx_j2<br>
+You are free to use this tool for any purpose, including commercial streaming and ad revenue, without special permission. However, please do not falsely claim that you developed this tool yourself.<br>
+本ツールは、配信や広告収入などの商業利用を含むあらゆる用途で、<br>
+特別な許諾なくご利用いただけます。<br>
+もし可能であれば、下記のクレジット表示をしていただけると大変ありがたく存じます。<br>
+<br>
+じぇいつぅるず「T3DB」<br>
+X: @iidx_j2<br>
+<br>
 
