@@ -49,8 +49,8 @@ you can make the background transparent.
    
    The layout is designed to remain intact in either case. <br>
    どちらの場合でもレイアウトが崩れないようになっています。 <br>
-　　オーバーレイとして利用される場合は、ブラウザの幅を最小にすると <br>
-　　インゲームのウィンドウの外側に配置できます。 <br>
+   オーバーレイとして利用される場合は、ブラウザの幅を最小にすると <br>
+   インゲームのウィンドウの外側に配置できます。 <br>
   
 4. **Interact:**  
    The application will load the item list. Check items, use the search box, and adjust color settings as needed. Your changes are saved automatically.
